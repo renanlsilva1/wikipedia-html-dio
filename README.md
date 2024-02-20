@@ -1,6 +1,6 @@
 ## Releitura do Wikipedia
 
-Este projeto consiste em treinar minhas habilidades com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica.
+Este projeto consiste em treinar minhas habilidades com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
 
 ## Detalhes do resultado final
 Usei como referência o artigo sobre guitarra(um tema que me interesso bastante), da Wikipedia.
