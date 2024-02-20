@@ -1,0 +1,91 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ulSummary { 
+    list-style: none; 
+    padding-left: 5px; 
+}
+
+hr {
+    margin-top: 0;
+}
+
+a { color:blue; text-decoration: none;}
+.bar {
+    background-color: #f9f9fb;
+    padding:15px;
+    border-top: solid 1px #90b5c0;
+    border-bottom: solid 1px #90b5c0;
+}
+.content {
+    max-width: 1440px;
+    margin: auto;
+    grid-gap: 3rem;
+    display: grid;
+    gap: 3rem;
+    grid-template-areas: "sidebar main anchors";
+    grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+
+.footer {
+    min-height: 100px;
+    border-top: solid 1px #90b5c0;
+    background-color: #90b5c0;
+}
+.anchors {
+    border-left: solid 1px #90b5c0;
+    padding-left: 15px;
+}
+.sidebar {
+    border-right: solid 1px #90b5c0;
+    position: relative;
+}
+
+h4 {
+    color: #90b5c0;
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+.logo {
+    background-color: #90b5c0;
+    padding: 10px 40px;
+    position: relative;
+}
+
+.logo2 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.logo3 {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.liInicio {
+    padding: 2px 17px;
+}
+
+.summaryLi {
+    padding: 2px 30px ;
+}
+
+.ulArticle {
+    padding-left: 25px;
+}
+
+.imgSidebar {
+    width: 225px;
+}
+
