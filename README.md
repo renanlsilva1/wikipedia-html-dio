@@ -1,19 +1,17 @@
-# Módulo 3 - Trilha HTML
+## Releitura do Wikipedia
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+Este projeto consiste em treinar minhas habilidades com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## Detalhes do resultado final
+Usei como referência o artigo sobre guitarra(um tema que me interesso bastante), da Wikipedia.
+<img src="https://github.com/renanlsilva1/wikipedia-html-dio/blob/main/img-project/img-1.png" alt="Parte superior do site">
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+É possível navegadar através do sumário localizado na lateral direita do site.
+<img src="https://github.com/renanlsilva1/wikipedia-html-dio/blob/main/img-project/img-2.png" alt="Parte inferior do site">
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
+## Links usados como referência
 - [Wikipedia](https://pt.wikipedia.org/)
+- [Artigo](https://pt.wikipedia.org/wiki/Guitarra)
 
 
